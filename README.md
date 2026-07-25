@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srishanth2121/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/srishanth2121/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srishanth2121/leetcode/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/srishanth2121/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
 |  |
 | ------- |
