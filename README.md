@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/srishanth2121/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srishanth2121/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/srishanth2121/leetcode/tree/master/0112-path-sum) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/srishanth2121/leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
