@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srishanth2121/leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/srishanth2121/leetcode/tree/master/0263-ugly-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/srishanth2121/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
 |  |
