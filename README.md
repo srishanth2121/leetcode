@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/srishanth2121/leetcode/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srishanth2121/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srishanth2121/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/srishanth2121/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/srishanth2121/leetcode/tree/master/0263-ugly-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/srishanth2121/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srishanth2121/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Memoization
 |  |
 | ------- |
