@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/srishanth2121/leetcode/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srishanth2121/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srishanth2121/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srishanth2121/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/srishanth2121/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srishanth2121/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/srishanth2121/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srishanth2121/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/srishanth2121/leetcode/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/srishanth2121/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srishanth2121/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
